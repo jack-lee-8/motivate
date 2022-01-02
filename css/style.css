@@ -6735,5 +6735,9 @@ h6 {
 /*НОВЫЙ КОД*/
 
 .service_content.text-center li{
-    list-style-type: disclosure-closed;
+    list-style-type: disc;
+}
+.new-ul{
+  margin: auto;
+    width: 60%;
 }
